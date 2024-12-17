@@ -24,7 +24,7 @@ The dataset for this analysis is provided by Maven Analytics. It consist of two 
 ### Tools
 
 - Excel - Data Cleaning
-- MySQL - Data Analysis [Download here
+- MySQL - Data Analysis 
 
 ### Data Cleaning/Preparation
 
